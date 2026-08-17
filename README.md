@@ -136,6 +136,58 @@ Passionate about writing clean code, solving real-world problems, and creating m
 
 ---
 
+## 🌐 Personal Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 Portfolio Website</h3>
+<p>Animated personal portfolio with glassmorphism design, smooth scroll, skill bars & contact form.</p>
+<a href="https://portfolio-website-eta-kohl-98.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-FF79C6?style=flat" /></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>🌤️ Weather App</h3>
+<p>Real-time weather with 5-day forecast, Celsius/Fahrenheit toggle & localStorage.</p>
+<a href="https://github.com/pateltayyaba28-sudo/weather-app"><img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>✅ Todo App</h3>
+<p>Drag-to-reorder task manager with dark/light mode, filters & localStorage persistence.</p>
+<a href="https://github.com/pateltayyaba28-sudo/todo-app-react"><img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>🛍️ E-Commerce UI</h3>
+<p>Full shopping experience — product grid, filters, cart, checkout with tax calculation.</p>
+<a href="https://github.com/pateltayyaba28-sudo/ecommerce-react"><img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>📝 Blog App — Full Stack</h3>
+<p>Complete blog platform with JWT auth, CRUD posts, threaded comments, likes & user profiles.</p>
+<a href="https://github.com/pateltayyaba28-sudo/blog-app-fullstack"><img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
